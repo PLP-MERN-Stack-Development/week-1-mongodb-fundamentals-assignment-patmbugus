@@ -24,6 +24,7 @@ You will:
 
 - `Week1-Assignment.md`: Detailed assignment instructions
 - `insert_books.js`: Script to populate your MongoDB database with sample book data
+- `screenshots of collections and sample data 
 
 ## Requirements
 
@@ -39,6 +40,10 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 2. Add your `queries.js` file with all required MongoDB queries
 3. Include a screenshot of your MongoDB database
 4. Update the README.md with your specific setup instructions
+
+-- npm install mongodb  -- installing mongodb driver
+-- npm init -y  -package.json
+
 
 ## Resources
 
